@@ -1,7 +1,3 @@
-Here's a LinkedIn statement you can use to showcase your Exploratory Data Analysis (EDA) project on your train dataset:
-
----
-
 🚆 **Exploratory Data Analysis (EDA) on Train Dataset** 🚆
 
 I recently undertook an exciting project where I performed **Exploratory Data Analysis (EDA)** on a comprehensive train dataset using **Jupyter Notebook** and **Python**! 📊✨ 
